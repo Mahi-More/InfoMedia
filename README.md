@@ -14,5 +14,5 @@ Tech Stack:
 
 HTML5
 
-CSS3 (Flexbox & Grid)
+CSS3 (Flexbox and Grid)
 
